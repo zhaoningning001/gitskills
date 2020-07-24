@@ -1,3 +1,2 @@
-Creating a new branch is simple.
-master∑÷÷7
-branch
+<<<<<<< HEAD
+Creating a new branch is simple and quick.
