@@ -1,3 +1,3 @@
-Creating a new branch is quick AND simple.
-master∑÷÷7
+ a new branch is quicik.
+master
 branch
